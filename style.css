@@ -19,7 +19,10 @@ h3 {
 	color: white;
 	text-align: center;
 }
-
+a{
+	color: white;
+	text-decoration: none;
+}
 #query {
 	display: block;
 	border: 1px solid #999;
